@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{ContinentsBoundariesShapefile}
+ESRI. World Continents. ArcGIS Hub; 2013.
+\newblock Available at: \url{https://hub.arcgis.com/datasets/esri::world-continents/about}. Last Updated: February 9, 2023, (Accessed: October 29, 2023).
+
+\bibitem{GISGeography2023}
+{GISGeography}. World Map with Latitudes and Longitudes; 2023.
+\newblock Available at: \url{https://gisgeography.com/world-map-with-latitudes-and-longitudes/}. Last Updated: October 29, 2023, (Accessed: October 29, 2023).
+
+\bibitem{DataCamp2023GeoPandas}
+Luna JC. GeoPandas Tutorial: An Introduction to Geospatial Analysis. DataCamp; 2023.
+\newblock Available at: \url{https://www.datacamp.com/tutorial/geopandas-tutorial-geospatial-analysis}. (Accessed: October 29, 2023).
+
+\bibitem{KMeansCustom}
+Dabbura I.
+\newblock K-means Clustering: Algorithm, Applications, Evaluation Methods, and Drawbacks.
+\newblock Towards Data Science. 2018 Sep.
+\newblock Available at: \url{https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a}. (Accessed: November 8, 2023).
+
+\bibitem{ApacheSparkOptimizationTechniques}
+Ippolito PP.
+\newblock Apache Spark Optimization Techniques.
+\newblock Towards Data Science. 2023 Jan.
+\newblock Available at: \url{https://towardsdatascience.com/apache-spark-optimization-techniques-fa7f20a9a2cf}. (Accessed: November 8, 2023).
+
+\bibitem{NNK2023}
+(NNK) N. Spark Performance Tuning \& Best Practices; 2023.
+\newblock Available at: \url{https://sparkbyexamples.com/spark/spark-performance-tuning/}. Last modified: February 7, 2023, (Accessed: November 8, 2023).
+
+\bibitem{NYT}
+{The New York Times}. Coronavirus World Map: Tracking the Global Outbreak. The New York Times; 2021.
+\newblock Available at: \url{https://www.nytimes.com/interactive/2021/world/covid-cases.html}. Last modified: March 10, 2023, (Accessed: November 10, 2023).
+
+\end{thebibliography}

@@ -1,0 +1,39 @@
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+23/11/18 18:04:06 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+
+------------ STEP 1: FETCHING THE LATEST DATA ------------
+
+1. Deleting the existing data...
+   -> Deleting file: 2023-11-18.csv
+Done deleting the existing data.
+
+2. Fetching the latest data...
+Done fetching the latest data.
+
+3. Writing the data to a CSV file: 2023-11-18.csv
+Done writing the data to a CSV file.
+
+
+------------ STEP 2: LOADING THE DATA INTO A SPARK DATAFRAME ------------
+
+Done loading the data into a Spark dataframe.                                   
+
+
+------------ STEP 3: Query 1 ------------
+
+23/11/18 18:04:11 WARN SparkStringUtils: Truncated the string representation of a plan since it was too large. This behavior can be adjusted by setting 'spark.sql.debug.maxToStringFields'.
+Query 1 took 3.1029131412506104 seconds.                                        
+
+------------ STEP 4: Query 2 ------------
+
+23/11/18 18:04:20 WARN GarbageCollectionMetrics: To enable non-built-in garbage collector(s) List(G1 Concurrent GC), users should configure it(them) to spark.eventLog.gcMetrics.youngGenerationGarbageCollectors or spark.eventLog.gcMetrics.oldGenerationGarbageCollectors
+Query 2 took 15.06498098373413 seconds to complete.                             
+
+------------ STEP 5: Query 3 ------------
+
+Clustering completed by custom implementation in 58.84758687019348 seconds      
+23/11/18 18:05:32 WARN InstanceBuilder: Failed to load implementation from:dev.ludovic.netlib.blas.JNIBLAS
+23/11/18 18:05:32 WARN InstanceBuilder: Failed to load implementation from:dev.ludovic.netlib.blas.VectorBLAS
+23/11/18 18:07:17 WARN DAGScheduler: Broadcasting large task binary with size 2020.2 KiB
+Clustering completed by Spark MLlib in 109.29923582077026 seconds             

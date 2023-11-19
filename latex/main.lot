@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces COVID-19 Dataset Sample\relax }}{2}{table.caption.5}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces COVID-19 Dataset Statistics\relax }}{2}{table.caption.6}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces COVID-19 Dataset Null Values\relax }}{2}{table.caption.7}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Query 1 Results Sample\relax }}{11}{table.caption.10}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Query 2 Results Sample\relax }}{13}{table.caption.13}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Query 3 Results Sample - Custom KMeans Clustering\relax }}{16}{table.caption.19}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Query 3 Results Sample - Spark MLlib KMeans Clustering\relax }}{16}{table.caption.20}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
