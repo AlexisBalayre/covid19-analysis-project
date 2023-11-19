@@ -1,0 +1,10 @@
+.DS_Store
+assessment_ml_bd/*
+build/*
+dist/*
+Covid19AnalysisProjectLib.egg-info
+Covid19AnalysisProjectLib/__pycache__/*
+Covid19AnalysisProjectLib/Queries/__pycache__/*
+Covid19AnalysisProjectLib/NonOptimised/__pycache__/*
+
+
