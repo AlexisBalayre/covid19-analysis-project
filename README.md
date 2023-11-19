@@ -15,19 +15,25 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
 
 ### Installation
 
-1. **Enter the project directory**:
+1. **Clone the repository**:
+
+   ```bash
+   git clone git@github.com:AlexisBalayre/cranfield-assessment-2.git
+   ```
+
+2. **Enter the project directory**:
 
    ```bash
    cd Covid19AnalysisProject
    ```
 
-2. **Create a virtual environment**:
+3. **Create a virtual environment**:
 
    ```bash
    python3 -m venv venv
    ```
 
-3. **Activate the virtual environment**:
+4. **Activate the virtual environment**:
 
    - On Windows:
 
@@ -41,7 +47,7 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
      source venv/bin/activate
      ```
 
-4. **Install required libraries**:
+5. **Install required libraries**:
 
    ```bash
    pip install -r requirements.txt
@@ -71,5 +77,5 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
 - Apache Spark
 - Python 3.x
 - Pandas, GeoPandas
-- Matplotlib
+- Seaborn, Matplotlib
 - Apache Airflow (optional, for task scheduling)
