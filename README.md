@@ -18,13 +18,13 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
 1. **Clone the repository**:
 
    ```bash
-   git clone git@github.com:AlexisBalayre/cranfield-assessment-2.git
+   git clone git@github.com:AlexisBalayre/covid19-analysis-project.git
    ```
 
 2. **Enter the project directory**:
 
    ```bash
-   cd Covid19AnalysisProject
+   cd covid19-analysis-project
    ```
 
 3. **Create a virtual environment**:
