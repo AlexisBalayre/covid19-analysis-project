@@ -11,6 +11,13 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
 - **Performance Optimisation**: Implements Spark best practices for efficient data processing.
 - **Ethical Consideration Analysis**: Addresses crucial aspects of privacy and ethical technology use.
 
+## Visualisation 📊
+![top-100-locations-most-affected](https://github.com/AlexisBalayre/cranfield-assessment-2/assets/60859013/63325a48-5e8f-400f-a34d-d44ca228bd0c)
+![top-50-locations-most-affected](https://github.com/AlexisBalayre/cranfield-assessment-2/assets/60859013/e92d13a7-2074-4343-a12d-332b28997008)
+![covid-19-clusters-spark](https://github.com/AlexisBalayre/cranfield-assessment-2/assets/60859013/82ba9236-8fb3-43fb-8deb-bb4eb7e64c34)
+![mean-confirmed-cases-by-week-and-continent](https://github.com/AlexisBalayre/cranfield-assessment-2/assets/60859013/995c7cc9-a4a6-441b-87dd-4a1f5e2362c5)
+![mean-daily-confirmed-cases-per-month-1](https://github.com/AlexisBalayre/cranfield-assessment-2/assets/60859013/65789b08-c496-4bdd-9bb2-07d6f096a926)
+
 ## Getting Started 🚀
 
 ### Installation
@@ -18,13 +25,13 @@ This project harnesses Big Data and Machine Learning technologies to analyse the
 1. **Clone the repository**:
 
    ```bash
-   git clone git@github.com:AlexisBalayre/cranfield-assessment-2.git
+   git clone git@github.com:AlexisBalayre/covid19-analysis-project.git
    ```
 
 2. **Enter the project directory**:
 
    ```bash
-   cd Covid19AnalysisProject
+   cd covid19-analysis-project
    ```
 
 3. **Create a virtual environment**:
